@@ -4,8 +4,8 @@
 // =============================================================================
 //  Device / server
 // =============================================================================
-#define DEVICE_ID         "MTR-0001"
-#define API_KEY           "VP-FN5WFCBV7E58V"
+#define DEVICE_ID         "MTR-0011"
+#define API_KEY           "VP-HL5Y8Z26PA8FZ"
 
 #define SERVER_BASE       "https://smart-energy-meter-mu.vercel.app"
 #define INGEST_URL        SERVER_BASE "/api/telemetry/ingest"
